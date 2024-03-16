@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_get_started_with_scratch">
+    <title>How to get started with Scratch</title>
+    <shortdesc>Scratch is a web application which opens directly on your web browser. </shortdesc>
+    <taskbody>
+        <context id="context_yzp_sgm_t1c">Here you will learn how to start using Scratch.<p>Follow
+                the steps below to get started.</p></context>
+        <steps id="initial_steps">
+            <step>
+                <cmd>Open your web browser. Example: Chrome</cmd>
+            </step>
+            <step>
+                <cmd>Type <b>scratch.mit.edu</b> and press Enter.</cmd>
+            </step>
+            <step>
+                <cmd>Click on <b>Start Creating</b> button.</cmd>
+            </step>
+        </steps>
+        <result id="result_tb5_jyl_t1c"> Scratch coding environment opens up in a new window.
+        </result>
+    </taskbody>
+</task>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_start_coding_in_scratch">
+    <title>How to start coding in Scratch</title>
+    <shortdesc>Easy steps to guide you in building your scratch project.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_dr1_3gm_t1c">
+            <p>Open the Scratch interface.</p>
+            <p>
+                <xref href="how_to_get_started_with_scratch.dita"/></p>
+        </prereq>
+        <context>Here you will learn how to use the code blocks available in the Scatch
+            interface.</context>
+        <steps>
+            <step>
+                <cmd>Select a block of code from left side code palette.</cmd>
+            </step>
+            <step>
+                <cmd>Drag and drop it in the coding area, the middle section.</cmd>
+            </step>
+            <step>
+                <cmd>Click the green flag on the top right hand side.</cmd>
+            </step>
+        </steps>
+        <result id="result_nbw_twm_t1c">You have created your first program.</result>
+    </taskbody>
+</task>
