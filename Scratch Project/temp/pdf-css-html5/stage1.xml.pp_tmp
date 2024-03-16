@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/Acer/Desktop/jpdocu%20template/Scratch_Project.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Sample Project</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">Sample Project</title>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_is_scratch"><resourceid appid="what_is_scratch" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">What is Scratch?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Scratch is a free visual programming language for children,  with building blocks to         create animations, digital stories etc.</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_2" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_get_started_with_scratch"><resourceid appid="how_to_get_started_with_scratch" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">How to get started with Scratch</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Scratch is a web application which opens directly on your web browser. </shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_3" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="components_in_scratch_environment"><resourceid appid="components_in_scratch_environment" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Components in Scratch Environment</navtitle><?ditaot gentext?></topicmeta></topicref>
+</opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="what_is_scratch" oid="what_is_scratch" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">What is Scratch?</ph></title>
+    <shortdesc class="- topic/shortdesc ">Scratch is a free visual programming language for children,  with building blocks to
+        create animations, digital stories etc.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Scratch was designed to provide free coding platform for young children. However, it is
+            used by people of all age group. It is available in more than 70 languages. Learning is
+            fun with Scratch. </p>
+        <p class="- topic/p ">Some of the benefits using Scratch are:<ul class="- topic/ul " id="unique_1_Connect_42_ul_urx_ysl_t1c" nd:nd-id="ul_urx_ysl_t1c">
+                <li class="- topic/li ">Develop problem solving skills.</li>
+                <li class="- topic/li ">Promotes computational skills.</li>
+                <li class="- topic/li ">Creative thinking.</li>
+                <li class="- topic/li ">Self Expression and Collaboration.</li>
+            </ul></p>
+    </conbody>
+</concept><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="how_to_get_started_with_scratch" oid="how_to_get_started_with_scratch" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to get started with Scratch</ph></title>
+    <shortdesc class="- topic/shortdesc ">Scratch is a web application which opens directly on your web browser. </shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">Here you will learn how to start using Scratch.<p class="- topic/p ">Follow the steps below to get
+                started.</p></context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Open your web browser. Example: Chrome</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Type  <b class="+ topic/ph hi-d/b ">scratch.mit.edu</b> and press Enter.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click on <b class="+ topic/ph hi-d/b ">Start Creating</b> button.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_2_Connect_42_result_tb5_jyl_t1c" nd:nd-id="result_tb5_jyl_t1c"> Scratch coding environment opens up in a new window. </result>
+    </taskbody>
+</task><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="components_in_scratch_environment" oid="components_in_scratch_environment" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Components in Scratch Environment</ph></title>
+    <body class="- topic/body ">
+        <p class="- topic/p ">Scratch Environment consists of three major sections:<ul class="- topic/ul " id="unique_3_Connect_42_ul_vx1_f1m_t1c" nd:nd-id="ul_vx1_f1m_t1c">
+                <li class="- topic/li ">Block Pallete</li>
+                <li class="- topic/li ">Coding Area</li>
+                <li class="- topic/li ">Stage Area</li>
+            </ul></p>
+    </body>
+</topic></map>

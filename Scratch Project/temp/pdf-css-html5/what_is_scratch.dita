@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\Acer\Desktop\jpdocu template\temp\pdf-css-html5?><?workdir-uri file:/C:/Users/Acer/Desktop/jpdocu%20template/temp/pdf-css-html5/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="what_is_scratch" ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/C:/Users/Acer/Desktop/jpdocu%20template/what_is_scratch.dita" xtrc="concept:1;3:31" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/Users/Acer/Desktop/jpdocu%20template/what_is_scratch.dita" xtrc="title:1;4:12">What is Scratch?</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/Acer/Desktop/jpdocu%20template/what_is_scratch.dita" xtrc="shortdesc:1;5:16">Scratch is a free visual programming language for children,  with building blocks to
+        create animations, digital stories etc.</shortdesc>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/C:/Users/Acer/Desktop/jpdocu%20template/what_is_scratch.dita" xtrc="conbody:1;7:14">
+        <p class="- topic/p " xtrf="file:/C:/Users/Acer/Desktop/jpdocu%20template/what_is_scratch.dita" xtrc="p:1;8:12">Scratch was designed to provide free coding platform for young children. However, it is
+            used by people of all age group. It is available in more than 70 languages. Learning is
+            fun with Scratch. </p>
+        <p class="- topic/p " xtrf="file:/C:/Users/Acer/Desktop/jpdocu%20template/what_is_scratch.dita" xtrc="p:2;11:12">Some of the benefits using Scratch are:<ul id="ul_urx_ysl_t1c" class="- topic/ul " xtrf="file:/C:/Users/Acer/Desktop/jpdocu%20template/what_is_scratch.dita" xtrc="ul:1;11:75">
+                <li class="- topic/li " xtrf="file:/C:/Users/Acer/Desktop/jpdocu%20template/what_is_scratch.dita" xtrc="li:1;12:21">Develop problem solving skills.</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/Acer/Desktop/jpdocu%20template/what_is_scratch.dita" xtrc="li:2;13:21">Promotes computational skills.</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/Acer/Desktop/jpdocu%20template/what_is_scratch.dita" xtrc="li:3;14:21">Creative thinking.</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/Acer/Desktop/jpdocu%20template/what_is_scratch.dita" xtrc="li:4;15:21">Self Expression and Collaboration.</li>
+            </ul></p>
+    </conbody>
+</concept>
