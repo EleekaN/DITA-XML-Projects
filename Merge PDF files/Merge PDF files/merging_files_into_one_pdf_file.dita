@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="merging_files_into_one_pdf_file">
+    <title>Merging files into one PDF file</title>
+    <shortdesc> Group all your files together into one PDF file.</shortdesc>
+    <conbody>
+        <p>Some of the known benefits are: <ul id="ul_cvm_31s_t1c">
+                <li>Ease of use</li>
+                <li>Easy access</li>
+                <li>Efficiency in sharing files across teams</li>
+                <li>Optimizing storage space</li>
+            </ul></p>
+    </conbody>
+</concept>

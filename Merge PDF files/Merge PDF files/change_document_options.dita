@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="change_document_options">
+    <title>Change Document Options</title>
+    <shortdesc>Change the document options before publishing one PDF file.</shortdesc>
+    <taskbody>
+        <context>
+            <p>The task is optional.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Select  <uicontrol>Document Options</uicontrol>.</cmd>
+                <stepresult>The <uicontrol>Document Options</uicontrol> window opens.</stepresult>
+            </step>
+            <step>
+                <cmd>Under <uicontrol>Save PDF with</uicontrol> select
+                    <uicontrol>Color</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Select <uicontrol>PDF Options</uicontrol>.</cmd>
+                <stepresult>The <uicontrol>PDF Options</uicontrol> window opens.<fig
+                        id="fig_lhm_f2h_51c">
+                        <image href="Image%20Files/g_PDF_Options_window.png" id="image_mhw_g2h_51c">
+                            <alt>PDF_Options_window</alt>
+                        </image>
+                    </fig></stepresult>
+            </step>
+            <step>
+                <cmd>Select  <uicontrol>Include project info in PDF</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Select <uicontrol>Export layers to PDF</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Select <uicontrol>OK</uicontrol>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

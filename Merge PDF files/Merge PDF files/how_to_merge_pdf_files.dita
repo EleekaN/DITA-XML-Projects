@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_merge_pdf_files">
+    <title>Merge PDF files</title>
+    <shortdesc> Select the files you want to merge using Acrobat PDF combiner tool.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_hww_xys_t1c">
+            <p>You should have Acrobat PDF combiner tool installed on your system.</p>
+        </prereq>
+        <context>
+            <p>Combine multiple PDF files into a single PDF document. </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Open the PDF combiner tool, and then select <uicontrol>Navigator - Publisher
+                        Set</uicontrol>.</cmd>
+                <stepresult>The <wintitle>Navigator - Publisher Set</wintitle> window opens.<fig
+                        id="fig_dkq_rwg_51c">
+                        <p><image href="Image%20Files/g_navigator_pub_set_window.png"
+                                id="image_l1t_bxg_51c">
+                                <alt>Navigator - publisher Set window</alt>
+                            </image></p>
+                    </fig></stepresult>
+            </step>
+            <step>
+                <cmd>Under <uicontrol>Views</uicontrol>, select the files to merge.</cmd>
+            </step>
+            <step>
+                <cmd>Scroll down  to <uicontrol>Floor Plans</uicontrol>, to view list of files
+                    selected. </cmd>
+                <info>
+                    <fig id="fig_z3d_n1h_51c">
+                        <image href="Image%20Files/g_Floor_Plans_section.png" id="image_knj_v1h_51c">
+                            <alt>List of files visible under Floor Plan section of the window</alt>
+                        </image>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Under <uicontrol>Format</uicontrol>, select <uicontrol>PDF</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Select the <uicontrol>Merge to one PDF file</uicontrol> .</cmd>
+            </step>
+            <step>
+                <cmd>Select <uicontrol>Publish</uicontrol> to complete the task.</cmd>
+            </step>
+            <step importance="optional">
+                <cmd><xref href="change_document_options.dita"/></cmd>
+            </step>
+        </steps>
+        <result id="result_cjx_3lt_t1c">All the files are now merged into one PDF file.</result>
+    </taskbody>
+</task>

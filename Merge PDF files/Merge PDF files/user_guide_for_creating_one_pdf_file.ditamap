@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>User Guide for Creating One PDF File</title>
+    <topicref href="merging_files_into_one_pdf_file.dita"/>
+    <topicref href="how_to_merge_pdf_files.dita"/>
+    <topicref href="change_document_options.dita"/>
+    <reltable>
+        <relheader>
+            <relcolspec/>
+            <relcolspec/>
+        </relheader>
+        <relrow>
+            <relcell>
+                <topicref href="merging_files_into_one_pdf_file.dita" linking="sourceonly"/>
+            </relcell>
+            <relcell>
+                <topicref href="how_to_merge_pdf_files.dita"/>
+                <topicref href="change_document_options.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="how_to_merge_pdf_files.dita" linking="normal"/>
+            </relcell>
+            <relcell>
+                <topicref href="change_document_options.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell/>
+            <relcell/>
+        </relrow>
+    </reltable>
+</map>
