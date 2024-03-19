@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Scratch User Guide</title>
+    <topicref href="What_is%20_Scratch.dita"/>
+    <topicref href="How_to_get_started_with_Scratch.dita"/>
+    <topicref href="Sections_in_scratch_environment.dita"/>
+    <mapref href="scratch_map2.ditamap"/>
+</map>

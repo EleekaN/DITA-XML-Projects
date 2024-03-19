@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_start_coding_in_scratch">
+    <title>How to start coding in Scratch</title>
+    <shortdesc>Easy steps to guide you in building your scratch project.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_dr1_3gm_t1c">Open the Scratch interface.<p>
+                <xref href="How_to_get_started_with_Scratch.dita"/></p></prereq>
+        <context>Learn to build your first Scratch project using the code blocks. </context>
+        <steps>
+            <step>
+                <cmd>Select <uicontrol>Events</uicontrol> to view the list of code blocks.</cmd>
+            </step>
+            <step>
+                <cmd>Drag and drop <uicontrol>when<image href="Image%20files/g_flag_icon.png"
+                            id="image_mcb_sym_51c"/> clicked</uicontrol> in the middle
+                    section.</cmd>
+            </step>
+            <step>
+                <cmd>Select <uicontrol>Looks</uicontrol> to view the list of code blocks.</cmd>
+            </step>
+            <step>
+                <cmd>Drag and drop <uicontrol>say Hello! for 2 seconds</uicontrol> below the
+                    previous block.</cmd>
+            </step>
+            <step>
+                <cmd>Drag and drop other blocks.</cmd>
+            </step>
+            <step>
+                <cmd>Select the <uicontrol>Go</uicontrol> flag on the top right section.</cmd>
+            </step>
+        </steps>
+        <result id="result_nbw_twm_t1c">You have created your first program.</result>
+    </taskbody>
+</task>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="components_in_scratch_environment">
+    <title>Sections in Scratch Environment</title>
+    <body>
+        <p>Scratch Environment consists of three major sections:<ul id="ul_vx1_f1m_t1c">
+                <li>Block Pallete</li>
+                <li>Coding Area</li>
+                <li>Stage Area</li>
+            </ul></p>
+    </body>
+</topic>
+<?oxy_options track_changes="on"?>
